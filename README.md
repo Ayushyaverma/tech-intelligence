@@ -4,6 +4,8 @@ Site for Amodits Entreprenurship.
 
 A technology research and product-comparison website for Indian buyers. Visitors read tech news, browse six product categories, see scores and price history, and compare up to five devices side by side. Everything is managed from an admin dashboard, so routine updates need no code.
 
+**Live site:** https://tech-intelligence-fawn.vercel.app
+
 > **Sample data:** every brand, product, price, score and article in `data/` is fictional and exists only to demonstrate the site. Replace it before launch (see the [launch checklist](#before-launch)).
 
 - Requirements: [docs/REQUIREMENTS.md](docs/REQUIREMENTS.md), condensed from the business plan PDF
@@ -124,12 +126,33 @@ Sign in at `/admin`. The password is `admin` by default; set the `ADMIN_PASSWORD
 - [ ] Replace the sample products, news and guides with researched, verified data (admin, or edit `data/*.json` and run `npm run validate:data`)
 - [ ] Turn off the sample-data notice (Admin → Settings)
 - [ ] Set real retailer and affiliate URLs (currently `example.com` placeholders)
-- [ ] Set `ADMIN_SECRET` and `NEXT_PUBLIC_SITE_URL` on the host (and `ADMIN_PASSWORD` to replace the default `admin`)
+- [x] Set `ADMIN_SECRET`, `NEXT_PUBLIC_SITE_URL` and `ADMIN_PASSWORD` on the host (done on Vercel)
+- [ ] Move `src/lib/store.ts` to a database so admin edits, sign-ups and messages persist on Vercel
 - [ ] Have the privacy policy and terms (template text) reviewed by a professional
 - [ ] Replace `hello@example.com` on the contact page
 - [ ] Connect the newsletter list to an email provider (subscribers are stored in `data/subscribers.json`)
 
 ## Deployment
+
+### Vercel (current)
+
+The site is hosted on Vercel at https://tech-intelligence-fawn.vercel.app, in the project `ayushya-vermas-projects/tech-intelligence`.
+
+- **Auto-deploy:** every push to `main` on GitHub deploys to production. Pushes to other branches get a preview URL.
+- **Manual deploy** from a local checkout: `npx vercel deploy --prod`
+- **Environment variables** are set in Vercel → Project → Settings → Environment Variables:
+
+  | Variable | Purpose |
+  |---|---|
+  | `ADMIN_PASSWORD` | Admin dashboard password (stored as a sensitive variable; ask the owner) |
+  | `ADMIN_SECRET` | Signs the admin session cookie |
+  | `NEXT_PUBLIC_SITE_URL` | `https://tech-intelligence-fawn.vercel.app`, used for canonical links and the sitemap |
+
+  After changing a variable, redeploy for it to take effect.
+
+> **Known limitation on Vercel:** the admin dashboard, newsletter form and contact form write to `data/*.json`, and Vercel's filesystem is read-only. Those saves fail or are lost until `src/lib/store.ts` is moved to a database (see below). To change content today, edit `data/*.json` locally, run `npm run validate:data`, and push.
+
+### Self-hosting
 
 The JSON store needs a **writable filesystem**, so admin edits work as-is on any Node.js server or VPS (`npm run build && npm start`, behind a reverse proxy) with persistent disk. Keep `data/` backed up.
 
