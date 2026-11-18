@@ -1,0 +1,634 @@
+[
+  {
+    "id": "n_kairo-pad-3-pro-india-launch-confirmed",
+    "slug": "kairo-pad-3-pro-india-launch-confirmed",
+    "title": "Kairo confirms Pad 3 Pro for India with a flagship chip and a 144 Hz display",
+    "excerpt": "The 12.1-inch tablet uses the same Nexis 9 Gen 5 as the X5 phone and arrives in December. Here's how it stacks up against the Pad 3 and Aster's Pad Air 11.",
+    "body": [
+      "Kairo has confirmed that the Pad 3 Pro will launch in India in the first week of December, ending months of speculation. The company says the 12.1-inch tablet will use the Nexis 9 Gen 5 — the same chip found in its X5 flagship phone — paired with 12 GB of RAM and 256 GB of storage.",
+      "## What we know so far",
+      "The display is a 3K IPS panel running at 144 Hz, the same refresh rate as the current Pad 3 but with a higher resolution and a brighter backlight. A 10,000 mAh battery is rated for 13 hours of video playback, and the tablet supports Kairo's stylus and magnetic keyboard. There will be no cellular model in India.",
+      "Kairo has not announced pricing, but retail sources expect it to land between ₹42,000 and ₹48,000. That would place it above the Pad 3, which currently sells for ₹22,999, and well below Aster's Pad Air 11 at ₹57,900.",
+      "## Early lab numbers",
+      "We have had a pre-production unit in our lab for a week. Early CPU and GPU results are the highest we have recorded on a non-Aster tablet, although the software is still in beta and our scores are provisional. We will publish a full review, including battery and stylus-latency testing, once retail units arrive.",
+      "If you need a tablet now, the Pad 3 remains our best-value pick for streaming and study. If you can wait a few weeks, the Pad 3 Pro looks like a strong option for anyone who wants more performance without paying Aster prices."
+    ],
+    "kind": "launch",
+    "tags": [
+      "Kairo",
+      "Tablets",
+      "Launch"
+    ],
+    "productSlugs": [
+      "kairo-pad-3",
+      "aster-pad-air-11"
+    ],
+    "category": "tablets",
+    "author": "Ishita Sen",
+    "publishedAt": "2026-11-16T04:30:00.000Z",
+    "readMinutes": 4,
+    "featured": true,
+    "status": "published",
+    "sources": [
+      {
+        "id": "n1",
+        "title": "Kairo India press release: Pad 3 Pro",
+        "publisher": "Kairo",
+        "url": "https://example.com/kairo/newsroom/pad-3-pro-india",
+        "type": "official",
+        "accessedAt": "2026-11-16"
+      },
+      {
+        "id": "tracker",
+        "title": "Tech Intelligence price tracker",
+        "publisher": "Tech Intelligence",
+        "url": "https://example.com/tech-intelligence/price-tracker",
+        "type": "retailer",
+        "accessedAt": "2026-11-16"
+      }
+    ]
+  },
+  {
+    "id": "n_post-diwali-price-watch-2026",
+    "slug": "post-diwali-price-watch-2026",
+    "title": "Post-Diwali price watch: 20 devices that stayed cheaper after the sales",
+    "excerpt": "Most festive discounts vanish the day a sale ends. These didn't — we compared every tracked price with where it stood a month ago.",
+    "body": [
+      "Every year the same pattern repeats: prices fall sharply for the early-October sales, dip again around Diwali, then quietly climb back. This year, a surprising number of devices have held on to lower prices well after the sales ended.",
+      "We compared the lowest in-stock price for every product we track with its recorded price in mid-October, before the Diwali sales began. 20 of the 39 products are now at least 4% cheaper, and several are at their lowest non-sale price since launch.",
+      "## The biggest drops",
+      "The Corvex Arc 34 is down 15.5% to ₹48,990 (from ₹57,990), the largest cut we recorded. Close behind, the Halden Aura Max is down 14.7% to ₹28,990 (from ₹33,990), and the Corvex Strike 15 is down 14.6% to ₹69,990 (from ₹81,990).",
+      "Elsewhere, the Kairo Vision Q8 65 is down 13.2% to ₹98,999 (from ₹1,13,999), while the Novu Buds Pro 2 is down 13.2% to ₹3,299 (from ₹3,799). If you were waiting for a sign, these are the deals that do not require a sale countdown.",
+      "## Why prices stayed low",
+      "Two factors explain most of the cuts. Several brands have successors due early next year and are clearing stock, while others turned temporary bank offers into permanent price reductions to stay competitive. Laptops, TVs, monitors and headphones saw the largest changes; phone prices were more stable.",
+      "## Not everything got cheaper",
+      "A handful of devices moved the other way. Rising memory, panel and component costs have pushed up prices on the Novu Buds Air 2 (+5.6%), Novu 14 (+3.8%), Novu Frame 50 (+3.3%), Corvex Strike 16 (+2.8%). We cover the memory price trend in more detail in a separate story.",
+      "All prices come from our price tracker and were checked between 14 and 16 November. Prices change frequently, so confirm at the retailer before you buy."
+    ],
+    "kind": "price",
+    "tags": [
+      "Deals",
+      "Price tracker",
+      "Diwali"
+    ],
+    "productSlugs": [
+      "corvex-arc-34",
+      "halden-aura-max",
+      "corvex-strike-15",
+      "kairo-vision-q8-65",
+      "novu-buds-pro-2",
+      "tarsa-edge-40"
+    ],
+    "author": "Tech Intelligence Desk",
+    "publishedAt": "2026-11-15T12:30:00.000Z",
+    "readMinutes": 5,
+    "featured": true,
+    "status": "published",
+    "sources": [
+      {
+        "id": "tracker",
+        "title": "Tech Intelligence price tracker",
+        "publisher": "Tech Intelligence",
+        "url": "https://example.com/tech-intelligence/price-tracker",
+        "type": "retailer",
+        "accessedAt": "2026-11-15"
+      }
+    ]
+  },
+  {
+    "id": "n_halden-aura-max-long-term-review",
+    "slug": "halden-aura-max-long-term-review",
+    "title": "Halden Aura Max long-term review: six months with the quietest headphones we've tested",
+    "excerpt": "Our top noise-cancelling headphones after daily commutes, two long-haul flights and one accidental drop.",
+    "body": [
+      "When the Aura Max arrived in June, it measured 42 dB of average noise attenuation in our lab — the best result we have recorded. Six months later, after daily metro commutes in Mumbai and two long-haul flights, we wanted to know whether that advantage holds up in real life.",
+      "## Noise cancelling: still the benchmark",
+      "It does. On a packed metro, the low rumble of the train practically disappears, and voices drop to a murmur. Unlike some rivals, the Aura Max avoids the 'pressure' sensation many people dislike with strong ANC. The transparency mode is good, though Aster's Pods Pro 3 still sound more natural when you need to hear an announcement.",
+      "## Comfort and build",
+      "The memory-foam cushions remain the most comfortable we have worn for long sessions. After six months the pads show light wear but no flattening, and the headband has not developed any creaks. Our pair survived a drop onto a tiled floor with only a scuff. The one persistent annoyance is the case: because the earcups do not fold flat, it takes up a lot of space in a backpack.",
+      "## Battery and calls",
+      "Halden quotes 32 hours with ANC on, and we have consistently seen 30–33 hours. A three-minute charge gives roughly three hours of playback, which saved us more than once at the airport. Call quality is excellent: the eight-microphone array cuts traffic noise far better than any earbuds we have tested except the Pods Pro 3.",
+      "At launch the Aura Max cost ₹34,990, which was hard to justify. It now sells for around ₹30,990, which makes it far easier to recommend. If you want the best possible noise cancelling and you value comfort over portability, these are still the headphones to buy. If you prefer earbuds, the Kairo Buds 4 Pro get surprisingly close for a fraction of the price."
+    ],
+    "kind": "review",
+    "tags": [
+      "Halden",
+      "Headphones",
+      "Review",
+      "Noise cancelling"
+    ],
+    "productSlugs": [
+      "halden-aura-max",
+      "aster-pods-pro-3",
+      "kairo-buds-4-pro"
+    ],
+    "category": "headphones",
+    "author": "Meera Iyer",
+    "publishedAt": "2026-11-13T05:00:00.000Z",
+    "readMinutes": 7,
+    "status": "published",
+    "sources": [
+      {
+        "id": "n1",
+        "title": "Aura Max specifications",
+        "publisher": "Halden",
+        "url": "https://example.com/halden/aura-max/specs",
+        "type": "official",
+        "accessedAt": "2026-11-12"
+      },
+      {
+        "id": "n2",
+        "title": "Aura Max ANC lab measurements",
+        "publisher": "Tech Intelligence Lab",
+        "url": "https://example.com/lab/halden-aura-max",
+        "type": "benchmark",
+        "accessedAt": "2026-11-12"
+      }
+    ]
+  },
+  {
+    "id": "n_memory-prices-rising-2027",
+    "slug": "memory-prices-rising-2027",
+    "title": "Memory prices are rising again — what it means for laptops and phones in 2027",
+    "excerpt": "DRAM and NAND contract prices are up for a third straight quarter. Some brands are already passing the cost on to buyers.",
+    "body": [
+      "After two years of falling component costs, memory is getting more expensive again. Industry analysts say contract prices for DRAM and NAND flash rose for the third consecutive quarter, driven by demand from AI data centres that is soaking up production capacity.",
+      "## Who is affected first",
+      "High-memory devices feel it first. Corvex has told retailers that the Strike 16 gaming laptop, with 32 GB of RAM and a 1 TB SSD, will rise to ₹1,84,990 this week. Budget phones are also exposed because memory makes up a larger share of their bill of materials: the Novu 14 is moving back to ₹13,499 after a festive dip.",
+      "Display panels are following a similar path. Prices for mainstream LCD TV panels have edged up since the summer, and entry-level TVs such as the Novu Frame 50 have quietly gained about ₹1,000.",
+      "## Should you buy now or wait?",
+      "If you are planning to buy a laptop with 32 GB of RAM or more in the next six months, buying sooner is likely to be cheaper. Many festive price cuts are still in place on models that are being cleared before 2027 refreshes. For phones, the effect should be smaller: brands tend to absorb small increases on mid-range models to protect sales volume.",
+      "We will keep tracking prices and report on any further increases. Our price history charts on every product page show exactly when a price has changed."
+    ],
+    "kind": "industry",
+    "tags": [
+      "Industry",
+      "Memory",
+      "Pricing"
+    ],
+    "productSlugs": [
+      "corvex-strike-16",
+      "novu-14",
+      "novu-frame-50"
+    ],
+    "author": "Ishita Sen",
+    "publishedAt": "2026-11-11T06:00:00.000Z",
+    "readMinutes": 5,
+    "status": "published",
+    "sources": [
+      {
+        "id": "n1",
+        "title": "Memory market quarterly outlook (sample)",
+        "publisher": "Silicon Ledger",
+        "url": "https://example.com/silicon-ledger/memory-outlook-q4-2026",
+        "type": "review",
+        "accessedAt": "2026-11-10"
+      },
+      {
+        "id": "tracker",
+        "title": "Tech Intelligence price tracker",
+        "publisher": "Tech Intelligence",
+        "url": "https://example.com/tech-intelligence/price-tracker",
+        "type": "retailer",
+        "accessedAt": "2026-11-11"
+      }
+    ]
+  },
+  {
+    "id": "n_aster-studio-display-32-first-look",
+    "slug": "aster-studio-display-32-first-look",
+    "title": "Aster Studio Display 32 first look: 6K Mini-LED for creators",
+    "excerpt": "A 32-inch 6K Mini-LED monitor with 120 Hz and single-cable charging. We had an hour with a pre-production unit.",
+    "body": [
+      "Aster's new Studio Display 32 is a 32-inch 6K monitor with a Mini-LED backlight, 120 Hz refresh and a single upstream USB-C port that delivers 96 W of charging. It will cost ₹1,59,900 in India.",
+      "## First impressions",
+      "Text is extraordinarily sharp at 6K, and uniformity on our pre-production sample was impressive. The aluminium stand offers tilt and height adjustment, but not swivel or pivot.",
+      "Several features, including camera integration and automatic brightness syncing, currently work only with Aster computers. We will publish full calibration and HDR results once we receive a retail unit.",
+      "Editor's note: draft — awaiting lab results before publishing."
+    ],
+    "kind": "launch",
+    "tags": [
+      "Aster",
+      "Monitors",
+      "First look"
+    ],
+    "productSlugs": [
+      "aster-studio-display-32"
+    ],
+    "category": "monitors",
+    "author": "Rohan Pillai",
+    "publishedAt": "2026-11-10T07:00:00.000Z",
+    "readMinutes": 4,
+    "status": "draft",
+    "sources": [
+      {
+        "id": "n1",
+        "title": "Studio Display 32 specifications",
+        "publisher": "Aster",
+        "url": "https://example.com/aster/studio-display-32/specs",
+        "type": "official",
+        "accessedAt": "2026-11-10"
+      }
+    ]
+  },
+  {
+    "id": "n_lumora-vista-os-5-update",
+    "slug": "lumora-vista-os-5-update",
+    "title": "Lumora rolls out Vista OS 5 to its OLED TVs with a faster home screen",
+    "excerpt": "The free update arrives first on the C2 range and brings a lighter interface, quicker app switching and a new filmmaker preset.",
+    "body": [
+      "Lumora has started rolling out Vista OS 5 to its 2026 C2 OLED TVs in India, with the 2025 C1 to follow early next year. The update is free and installs automatically overnight unless you have disabled automatic updates.",
+      "## What's new",
+      "The biggest change is the home screen, which now loads in under two seconds in our testing — roughly twice as fast as before. Sponsored rows have been reduced, and you can now pin up to ten apps to the top bar. Switching between streaming apps is noticeably quicker.",
+      "Vista OS 5 also adds a second filmmaker preset tuned for brighter rooms, which keeps colours accurate while raising overall brightness. Gamers get a redesigned game bar that shows frame rate, VRR status and input lag mode at a glance.",
+      "## Does it change our scores?",
+      "Not yet. Our smart-features score already rewarded Vista OS for speed and app support, and the update mostly reinforces that. We will re-test the C2 range after a few weeks to check stability before revising anything."
+    ],
+    "kind": "launch",
+    "tags": [
+      "Lumora",
+      "TVs",
+      "Software update"
+    ],
+    "productSlugs": [
+      "lumora-c2-65",
+      "lumora-c2-55"
+    ],
+    "category": "tvs",
+    "author": "Rohan Pillai",
+    "publishedAt": "2026-11-09T05:30:00.000Z",
+    "readMinutes": 4,
+    "status": "published",
+    "sources": [
+      {
+        "id": "n1",
+        "title": "Vista OS 5 release notes",
+        "publisher": "Lumora",
+        "url": "https://example.com/lumora/support/vista-os-5",
+        "type": "official",
+        "accessedAt": "2026-11-09"
+      }
+    ]
+  },
+  {
+    "id": "n_aster-book-air-13-price-cut",
+    "slug": "aster-book-air-13-price-cut",
+    "title": "Aster Book Air 13 keeps most of its Diwali discount",
+    "excerpt": "Our favourite all-round laptop is still well below its launch price after the festive sale ended.",
+    "body": [
+      "Aster rarely discounts its laptops outside big sales, so this one is worth noting. The Book Air 13 dropped to ₹84,900 during the Diwali sale and is now selling for ₹89,900 — still well below the ₹96,900 it cost in mid-October and the ₹99,900 launch price.",
+      "## Is it worth buying at this price?",
+      "Yes. The Book Air 13 is our top laptop pick for students and anyone who values battery life: it lasted 16 hours in our browsing rundown, it is completely silent and it weighs just 1.24 kg. The main compromises are the two USB-C ports and a 60 Hz display.",
+      "If you need more ports or prefer Meridian OS, the Veyra Slate 14 is also discounted, at ₹98,990. On a tighter budget, the Tarsa Book 15 at ₹44,999 remains our value pick.",
+      "We track prices from several retailers daily. The product page shows the full price history so you can see whether a deal is genuinely good."
+    ],
+    "kind": "price",
+    "tags": [
+      "Aster",
+      "Laptops",
+      "Deals"
+    ],
+    "productSlugs": [
+      "aster-book-air-13",
+      "veyra-slate-14",
+      "tarsa-book-15"
+    ],
+    "category": "laptops",
+    "author": "Kabir Mehta",
+    "publishedAt": "2026-11-08T06:30:00.000Z",
+    "readMinutes": 3,
+    "status": "published",
+    "sources": [
+      {
+        "id": "tracker",
+        "title": "Tech Intelligence price tracker",
+        "publisher": "Tech Intelligence",
+        "url": "https://example.com/tech-intelligence/price-tracker",
+        "type": "retailer",
+        "accessedAt": "2026-11-08"
+      }
+    ]
+  },
+  {
+    "id": "n_kairo-x5-long-term-review",
+    "slug": "kairo-x5-long-term-review",
+    "title": "Kairo X5 long-term review: eight months on, still the value flagship to beat",
+    "excerpt": "Two-day battery, 100 W charging and a camera that finally keeps up. What it's like to live with Kairo's flagship.",
+    "body": [
+      "The Kairo X5 launched in March with a simple pitch: flagship performance and the biggest battery in its class, for tens of thousands less than the competition. We have used one as a daily phone ever since. Here is how it has held up.",
+      "## Battery and charging",
+      "The 6,000 mAh silicon-carbon battery is the X5's defining feature. On a typical day — navigation, messaging, an hour of video and some photography — we finish with 45–50% left. Two days without charging is realistic for moderate users. When you do need to charge, 100 W wired charging fills it in about half an hour. Battery health is still at 98% after eight months.",
+      "## Performance",
+      "The Nexis 9 Gen 5 remains one of the fastest phone chips available. Demanding games run at high frame rates, and the phone stays cooler than last year's model. Aster's One Pro sustains peak performance slightly better in long sessions, but you would struggle to notice in everyday use.",
+      "## Cameras",
+      "Kairo's camera processing has improved with each update. The 3× periscope produces excellent portraits, and daylight photos are detailed with natural colours. Night video is still a step behind the Aster One Pro, which is the X5's main weakness against more expensive phones.",
+      "## Software",
+      "Kairo UI 6 is fast and feature-rich, but you will need to remove a handful of pre-installed apps on first boot. Five years of OS updates is solid, though two years shorter than Aster's promise.",
+      "During the Diwali sale the X5 is selling for ₹55,999, down from its ₹69,999 launch price. At that price it is the easiest flagship recommendation we can make."
+    ],
+    "kind": "review",
+    "tags": [
+      "Kairo",
+      "Phones",
+      "Review"
+    ],
+    "productSlugs": [
+      "kairo-x5",
+      "aster-one-pro",
+      "tarsa-edge-40"
+    ],
+    "category": "phones",
+    "author": "Ananya Rao",
+    "publishedAt": "2026-11-02T05:00:00.000Z",
+    "readMinutes": 8,
+    "featured": true,
+    "status": "published",
+    "sources": [
+      {
+        "id": "n1",
+        "title": "Kairo X5 specifications",
+        "publisher": "Kairo",
+        "url": "https://example.com/kairo/x5/specs",
+        "type": "official",
+        "accessedAt": "2026-11-01"
+      },
+      {
+        "id": "n2",
+        "title": "Kairo X5 lab data",
+        "publisher": "Tech Intelligence Lab",
+        "url": "https://example.com/lab/kairo-x5",
+        "type": "benchmark",
+        "accessedAt": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "n_silicon-carbon-batteries-2026",
+    "slug": "silicon-carbon-batteries-2026",
+    "title": "Why 2026 became the year of the silicon-carbon battery",
+    "excerpt": "Phones got bigger batteries without getting thicker. Here's the chemistry behind it — and what it means for longevity.",
+    "body": [
+      "If your next phone has a much bigger battery than your current one, thank silicon. In 2026, silicon-carbon anodes moved from a handful of flagship phones to the mid-range, and battery capacities jumped as a result.",
+      "## What changed",
+      "Traditional lithium-ion cells use graphite anodes. Silicon can store far more lithium, but it swells as it charges, which historically damaged cells. Silicon-carbon composites mix small amounts of silicon into a carbon structure that absorbs the swelling. The result is 10–15% more capacity in the same volume.",
+      "That's why the Kairo X5 fits 6,000 mAh into a body no thicker than last year's model, and why mid-range phones like the Kairo Neo 3 and Novu 14 Pro now ship with 5,500 mAh cells.",
+      "## Does it last?",
+      "Early concerns about faster degradation have not materialised. Brands now commit to 80% capacity after 1,600 cycles or more, and our own long-term units show minimal capacity loss after eight months. Fast charging remains the bigger factor in battery ageing; most phones now offer an optional charging limit to protect the cell.",
+      "## What to look for",
+      "Battery capacity alone does not tell the whole story. Software efficiency, display brightness and the chip all affect endurance. That is why our scores use measured battery tests rather than mAh numbers. Look at the 'Battery endurance' benchmark on each product page for a fair comparison."
+    ],
+    "kind": "industry",
+    "tags": [
+      "Industry",
+      "Batteries",
+      "Phones"
+    ],
+    "productSlugs": [
+      "kairo-x5",
+      "kairo-neo-3",
+      "novu-14-pro"
+    ],
+    "category": "phones",
+    "author": "Ishita Sen",
+    "publishedAt": "2026-10-29T06:00:00.000Z",
+    "readMinutes": 6,
+    "status": "published",
+    "sources": [
+      {
+        "id": "n1",
+        "title": "Silicon-carbon anode explainer (sample)",
+        "publisher": "Cell Notes",
+        "url": "https://example.com/cell-notes/silicon-carbon-explainer",
+        "type": "review",
+        "accessedAt": "2026-10-28"
+      }
+    ]
+  },
+  {
+    "id": "n_diwali-tv-deals-2026",
+    "slug": "diwali-tv-deals-2026",
+    "title": "Diwali sale: the TV deals actually worth your money",
+    "excerpt": "We checked every TV we track against its pre-sale price. These are the discounts that are genuinely good.",
+    "body": [
+      "TVs see some of the biggest discounts of the year during Diwali, but not every 'deal' is a real one. We compared each set's sale price with what it cost on 11 October, before the sale began.",
+      "## Best overall: Lumora C2 55",
+      "The C2 55 OLED is down 13% to ₹1,33,990. It's our top pick for movies, with perfect blacks, four HDMI 2.1 ports and a fast Vista OS interface. This is the lowest price we have recorded for it.",
+      "## Best for bright rooms: Kairo Vision Q8 65",
+      "At ₹95,999 (down 16%), the Q8 offers 2,500-nit Mini-LED brightness on a 65-inch screen. If your living room gets lots of daylight, it's a better choice than an OLED.",
+      "## Best value: Kairo Vision Q6 55",
+      "The Q6 is now ₹44,999, bringing 120 Hz, VRR and Dolby Vision to a mid-range price. It's ideal for console gamers on a budget.",
+      "On a tight budget, the Novu Frame 50 is 13% cheaper at ₹25,999. It's a good streaming TV for daytime viewing, but with a 60 Hz panel and limited contrast it isn't a movie or gaming set. All prices were checked on 25 October and may change during the sale."
+    ],
+    "kind": "price",
+    "tags": [
+      "Deals",
+      "TVs",
+      "Diwali"
+    ],
+    "productSlugs": [
+      "lumora-c2-55",
+      "kairo-vision-q8-65",
+      "kairo-vision-q6-55",
+      "novu-frame-50"
+    ],
+    "category": "tvs",
+    "author": "Rohan Pillai",
+    "publishedAt": "2026-10-26T04:30:00.000Z",
+    "readMinutes": 5,
+    "status": "published",
+    "sources": [
+      {
+        "id": "tracker",
+        "title": "Tech Intelligence price tracker",
+        "publisher": "Tech Intelligence",
+        "url": "https://example.com/tech-intelligence/price-tracker",
+        "type": "retailer",
+        "accessedAt": "2026-10-25"
+      }
+    ]
+  },
+  {
+    "id": "n_lumora-glow-27-review",
+    "slug": "lumora-glow-27-review",
+    "title": "Lumora Glow 27 review: QD-OLED for gamers who also edit photos",
+    "excerpt": "A 240 Hz QD-OLED with superb colour and motion clarity. Burn-in is the only real worry.",
+    "body": [
+      "OLED monitors have been improving quickly, and the Lumora Glow 27 is the most complete one we have tested. It combines a 27-inch QHD QD-OLED panel with a 240 Hz refresh rate, 0.03 ms response time and 90 W USB-C.",
+      "## Motion and gaming",
+      "Motion clarity is outstanding. Fast-moving games look crisp with no visible smearing, and input lag is the lowest in our 2026 test group. Adaptive Sync works reliably across the full refresh range.",
+      "## Colour and HDR",
+      "With 99% DCI-P3 coverage and true blacks, the Glow 27 is excellent for photo editing. Out of the box, colours in the sRGB mode are accurate enough for most work. HDR highlights are limited to 1,000 nits in small areas, which is good for an OLED monitor but well short of Mini-LED.",
+      "## Burn-in and text",
+      "Lumora includes pixel-refresh routines and a three-year warranty that covers burn-in. Static taskbars can still be a risk over years of heavy desktop use. Fine text also shows slight colour fringing due to the subpixel layout — noticeable if you code or write all day.",
+      "At ₹79,990, the Glow 27 is expensive, but it is the monitor we would buy for gaming and creative work combined. If you mostly edit photos, the Lumora Line 27 4K is sharper and far cheaper."
+    ],
+    "kind": "review",
+    "tags": [
+      "Lumora",
+      "Monitors",
+      "Review",
+      "OLED"
+    ],
+    "productSlugs": [
+      "lumora-glow-27",
+      "corvex-arc-34",
+      "lumora-line-27-4k"
+    ],
+    "category": "monitors",
+    "author": "Rohan Pillai",
+    "publishedAt": "2026-10-21T05:00:00.000Z",
+    "readMinutes": 6,
+    "status": "published",
+    "sources": [
+      {
+        "id": "n1",
+        "title": "Glow 27 specifications",
+        "publisher": "Lumora",
+        "url": "https://example.com/lumora/glow-27/specs",
+        "type": "official",
+        "accessedAt": "2026-10-20"
+      },
+      {
+        "id": "n2",
+        "title": "Glow 27 lab data",
+        "publisher": "Tech Intelligence Lab",
+        "url": "https://example.com/lab/lumora-glow-27",
+        "type": "benchmark",
+        "accessedAt": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "id": "n_corvex-pulse-25-launch",
+    "slug": "corvex-pulse-25-launch",
+    "title": "Corvex Pulse 25 launches at ₹18,990 with a 240 Hz panel",
+    "excerpt": "Corvex's new budget esports monitor targets competitive players who care about speed more than colour.",
+    "body": [
+      "Corvex has launched the Pulse 25, a 24.5-inch Full HD monitor with a 240 Hz IPS panel and a claimed 1 ms response time. It costs ₹18,990 and is available from today on Amazon and Flipkart.",
+      "## Built for esports",
+      "The Pulse 25 is aimed squarely at competitive players. Alongside the high refresh rate, it supports Adaptive Sync and includes a fully adjustable stand with height, tilt, swivel and pivot. There is no USB-C, and colour coverage is modest, so it's not designed for creative work.",
+      "## Our first measurements",
+      "We measured a 1.2 ms average response time with minimal overshoot in our lab, an excellent result at this price. Our score is benchmark-derived for now; a full review will follow after longer-term testing.",
+      "If you need a general office monitor instead, the Veyra View 24 at ₹12,490 remains our budget pick."
+    ],
+    "kind": "launch",
+    "tags": [
+      "Corvex",
+      "Monitors",
+      "Gaming",
+      "Launch"
+    ],
+    "productSlugs": [
+      "corvex-pulse-25",
+      "veyra-view-24"
+    ],
+    "category": "monitors",
+    "author": "Rohan Pillai",
+    "publishedAt": "2026-10-14T06:30:00.000Z",
+    "readMinutes": 3,
+    "status": "published",
+    "sources": [
+      {
+        "id": "n1",
+        "title": "Corvex Pulse 25 launch announcement",
+        "publisher": "Corvex",
+        "url": "https://example.com/corvex/newsroom/pulse-25",
+        "type": "official",
+        "accessedAt": "2026-10-14"
+      }
+    ]
+  },
+  {
+    "id": "n_festive-sale-wrap-up-2026",
+    "slug": "festive-sale-wrap-up-2026",
+    "title": "Festive sale wrap-up: what actually got cheaper in early October",
+    "excerpt": "We tracked prices before and during the first big sale week. Here's how real the discounts were.",
+    "body": [
+      "The first festive sale week of the season has ended. As usual, retailers promised 'up to 80% off'. We compared the prices of the products we track on 27 September with what they cost during the sale to see what was real.",
+      "## Genuine deals",
+      "The Kairo X5 fell 11% to ₹57,999, and the Corvex Strike 15 gaming laptop dropped 12% to ₹73,990. The Kairo Vision Q8 65 Mini-LED TV was 14% cheaper at ₹1,00,999.",
+      "Audio deals were strong too. The Halden Aura Max dropped to ₹29,990 and the Kairo Buds 4 Pro to ₹8,499.",
+      "## Inflated 'discounts'",
+      "Many listings compared sale prices with an MRP that the product has not sold at for months. A 40% discount on a price nobody paid is not a deal. Our price history charts show what a product actually sold for, so you can judge for yourself.",
+      "## What to expect at Diwali",
+      "Based on previous years, expect another round of discounts around Diwali, typically similar to or slightly smaller than this week's. Newly launched phones such as the Aster One and One Pro rarely get large cuts in their first two months."
+    ],
+    "kind": "price",
+    "tags": [
+      "Deals",
+      "Price tracker",
+      "Festive sales"
+    ],
+    "productSlugs": [
+      "kairo-x5",
+      "corvex-strike-15",
+      "kairo-vision-q8-65",
+      "halden-aura-max",
+      "kairo-buds-4-pro"
+    ],
+    "author": "Tech Intelligence Desk",
+    "publishedAt": "2026-10-09T07:00:00.000Z",
+    "readMinutes": 5,
+    "status": "published",
+    "sources": [
+      {
+        "id": "tracker",
+        "title": "Tech Intelligence price tracker",
+        "publisher": "Tech Intelligence",
+        "url": "https://example.com/tech-intelligence/price-tracker",
+        "type": "retailer",
+        "accessedAt": "2026-10-08"
+      }
+    ]
+  },
+  {
+    "id": "n_software-update-promises-2026",
+    "slug": "software-update-promises-2026",
+    "title": "Seven years of updates is the new normal — but not every brand delivers",
+    "excerpt": "Update promises have become a selling point. We compared what each brand commits to and how quickly updates actually arrive.",
+    "body": [
+      "A few years ago, two years of updates was standard for most phones. In 2026, long-term software support has become a key selling point — and it matters, because a phone that receives updates stays secure and useful for longer.",
+      "## Who promises what",
+      "Aster leads with 7 years of OS and security updates on the One and One Pro. Kairo promises 5 years on the X5 and 4 on the Neo 3, Tarsa commits to 4 years on the Edge 40, and Novu offers 3 years on the 14 Pro and just 2 on the Novu 14.",
+      "## Promises vs. delivery",
+      "A promise is only as good as its delivery. Aster typically releases updates to all supported devices on the same day. Kairo and Tarsa have improved but still roll out major versions over several weeks. Novu's monthly security patches arrived late on several occasions this year.",
+      "## Why it affects our scores",
+      "Our 'Software & support' score considers both the length of the promise and the brand's track record. That's one reason the Aster One scores well despite modest specifications: a phone supported for seven years has a lower cost of ownership."
+    ],
+    "kind": "industry",
+    "tags": [
+      "Industry",
+      "Software",
+      "Phones"
+    ],
+    "productSlugs": [
+      "aster-one-pro",
+      "kairo-x5",
+      "tarsa-edge-40",
+      "novu-14"
+    ],
+    "category": "phones",
+    "author": "Ananya Rao",
+    "publishedAt": "2026-10-05T05:30:00.000Z",
+    "readMinutes": 5,
+    "status": "published",
+    "sources": [
+      {
+        "id": "n1",
+        "title": "Aster software support policy",
+        "publisher": "Aster",
+        "url": "https://example.com/aster/support/software-policy",
+        "type": "official",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "n2",
+        "title": "Kairo update commitment",
+        "publisher": "Kairo",
+        "url": "https://example.com/kairo/support/updates",
+        "type": "official",
+        "accessedAt": "2026-10-04"
+      }
+    ]
+  }
+]

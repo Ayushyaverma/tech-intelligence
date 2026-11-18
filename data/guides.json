@@ -1,0 +1,318 @@
+[
+  {
+    "id": "g_best-phones-under-30000",
+    "slug": "best-phones-under-30000",
+    "title": "Best phones under ₹30,000",
+    "excerpt": "Fast chips, big batteries and good cameras no longer need a flagship budget. These are the phones we'd buy today.",
+    "category": "phones",
+    "budgetMax": 30000,
+    "picks": [
+      {
+        "productSlug": "kairo-neo-3",
+        "label": "Best overall",
+        "reason": "A bright 120 Hz AMOLED, a 5,500 mAh battery and four years of updates for ₹26,999."
+      },
+      {
+        "productSlug": "tarsa-edge-40",
+        "label": "Best camera and design",
+        "reason": "A real 3× telephoto, wireless charging and IP68 — now ₹28,999 after a price cut."
+      },
+      {
+        "productSlug": "novu-14-pro",
+        "label": "Best for battery on a budget",
+        "reason": "Same chip and battery as the Neo 3 for less, if you can live with a plastic build."
+      },
+      {
+        "productSlug": "novu-14",
+        "label": "Best under ₹15,000",
+        "reason": "5G and all-day battery for the essentials. Ideal as a first or backup phone."
+      }
+    ],
+    "body": [
+      "The ₹20,000–₹30,000 segment is the busiest in India, and in 2026 it got much better. Silicon-carbon batteries mean 5,500 mAh is now common, and mid-range chips like the Nexis 7 Gen 4 handle demanding games comfortably.",
+      "## How we chose",
+      "We ranked every phone in our database with a current price under ₹30,000 by its platform score, then checked each one for weaknesses that matter in daily use: update length, low-light camera quality and charging speed.",
+      "If you take lots of photos, stretch to the Tarsa Edge 40 for its telephoto. If battery life and value matter most, the Kairo Neo 3 is the safest choice. Prices change often, so check the price history on each product page before buying."
+    ],
+    "author": "Ananya Rao",
+    "publishedAt": "2026-10-12T05:00:00.000Z",
+    "updatedAt": "2026-11-16T05:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "g_best-laptops-for-students",
+    "slug": "best-laptops-for-students",
+    "title": "Best laptops for students",
+    "excerpt": "Long battery life, a good keyboard and a fair price matter more than raw power. Our picks for every budget.",
+    "category": "laptops",
+    "picks": [
+      {
+        "productSlug": "aster-book-air-13",
+        "label": "Best overall",
+        "reason": "16 hours of battery, silent fanless design and just 1.24 kg. Now well below its launch price."
+      },
+      {
+        "productSlug": "tarsa-book-15",
+        "label": "Best on a budget",
+        "reason": "16 GB of RAM, a 512 GB SSD and upgradeable parts for ₹44,999."
+      },
+      {
+        "productSlug": "veyra-slate-14",
+        "label": "Best premium Meridian OS laptop",
+        "reason": "A gorgeous OLED, every port you need and 15 hours of battery."
+      },
+      {
+        "productSlug": "corvex-strike-15",
+        "label": "Best for engineering and gaming",
+        "reason": "A Strata G6 GPU for CAD, rendering and games after class."
+      }
+    ],
+    "body": [
+      "Students need a laptop that survives a full day of lectures, fits in a backpack and lasts four years. That makes battery life, build quality and value more important than benchmark scores.",
+      "## What to prioritise",
+      "Aim for at least 16 GB of RAM and 512 GB of storage — both are now affordable and will keep the laptop usable for your whole course. Battery life above 10 hours in our rundown test means you can leave the charger at home. If your course involves CAD or 3D work, a discrete GPU is worth the extra weight.",
+      "## Our recommendation",
+      "For most students, the Aster Book Air 13 is the best choice: it is light, silent and lasts two days of classes. If you need Meridian OS for specific software, the Veyra Slate 14 is the premium pick, and the Tarsa Book 15 offers the best value."
+    ],
+    "author": "Kabir Mehta",
+    "publishedAt": "2026-11-01T05:30:00.000Z",
+    "updatedAt": "2026-11-16T05:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "g_best-noise-cancelling-headphones",
+    "slug": "best-noise-cancelling-headphones",
+    "title": "Best noise-cancelling headphones",
+    "excerpt": "From metro commutes to long-haul flights — the headphones and earbuds that block out the world best.",
+    "category": "headphones",
+    "picks": [
+      {
+        "productSlug": "halden-aura-max",
+        "label": "Best overall",
+        "reason": "42 dB of measured noise cancellation and the most comfortable fit we've tested."
+      },
+      {
+        "productSlug": "aster-pods-pro-3",
+        "label": "Best earbuds for calls",
+        "reason": "Strong ANC, a natural transparency mode and class-leading microphones."
+      },
+      {
+        "productSlug": "kairo-buds-4-pro",
+        "label": "Best value",
+        "reason": "Near-flagship ANC and 36 hours of battery for ₹8,999."
+      },
+      {
+        "productSlug": "novu-buds-pro-2",
+        "label": "Best under ₹5,000",
+        "reason": "Effective ANC and multipoint at a budget price."
+      }
+    ],
+    "body": [
+      "Good noise cancellation makes commutes calmer, flights shorter and open offices bearable. We measure attenuation across low, mid and high frequencies in our lab, then test each pair on real commutes.",
+      "## Over-ear or earbuds?",
+      "Over-ear headphones like the Halden Aura Max still cancel more noise, especially high-frequency sounds like voices, and are more comfortable for long flights. Earbuds are far more portable and better for workouts. If you take many calls, the Aster Pods Pro 3 have the best microphones.",
+      "## Comfort matters",
+      "ANC performance is useless if you cannot wear the headphones for more than an hour. Our comfort scores come from multi-hour wear tests by several testers with different head and ear sizes."
+    ],
+    "author": "Meera Iyer",
+    "publishedAt": "2026-10-20T06:00:00.000Z",
+    "updatedAt": "2026-11-16T05:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "g_best-tvs-for-movies",
+    "slug": "best-tvs-for-movies",
+    "title": "Best TVs for movies",
+    "excerpt": "Deep blacks, accurate colour and great HDR. The TVs that make movie night feel like the cinema.",
+    "category": "tvs",
+    "picks": [
+      {
+        "productSlug": "lumora-c2-65",
+        "label": "Best overall",
+        "reason": "Perfect OLED blacks and 1,500-nit highlights — the best picture we've measured this year."
+      },
+      {
+        "productSlug": "lumora-c2-55",
+        "label": "Best for most rooms",
+        "reason": "The same panel and processing in a size that suits most Indian living rooms."
+      },
+      {
+        "productSlug": "kairo-vision-q8-65",
+        "label": "Best for bright rooms",
+        "reason": "2,500-nit Mini-LED brightness beats glare from big windows."
+      },
+      {
+        "productSlug": "kairo-vision-q6-55",
+        "label": "Best value",
+        "reason": "Dolby Vision and accurate filmmaker presets at a mid-range price."
+      }
+    ],
+    "body": [
+      "For movies, contrast is king. The ability to show deep blacks next to bright highlights makes the biggest difference to how cinematic a picture looks, which is why OLED TVs dominate this list.",
+      "## OLED or Mini-LED?",
+      "OLED TVs like the Lumora C2 deliver perfect blacks and are ideal for dark rooms. Mini-LED sets like the Kairo Vision Q8 get much brighter, which helps in sunlit rooms, but can show blooming around bright objects at night.",
+      "## Don't forget sound",
+      "Thin TVs rarely sound as good as they look. For a proper movie experience, budget for a soundbar with Dolby Atmos support — all of our picks support it."
+    ],
+    "author": "Rohan Pillai",
+    "publishedAt": "2026-10-28T05:00:00.000Z",
+    "updatedAt": "2026-11-16T05:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "g_best-tablets-for-note-taking",
+    "slug": "best-tablets-for-note-taking",
+    "title": "Best tablets for note-taking",
+    "excerpt": "Low-latency stylus support, good palm rejection and all-day battery. The best tablets for students and professionals who write by hand.",
+    "category": "tablets",
+    "picks": [
+      {
+        "productSlug": "tarsa-canvas-12",
+        "label": "Best overall",
+        "reason": "The stylus is included, the AMOLED is gorgeous and battery life reaches 14 hours."
+      },
+      {
+        "productSlug": "aster-pad-air-11",
+        "label": "Best app ecosystem",
+        "reason": "Pro-grade stylus support and the best note-taking apps."
+      },
+      {
+        "productSlug": "aster-pad-11",
+        "label": "Best for families",
+        "reason": "Long software support and stylus support at a mid-range price."
+      },
+      {
+        "productSlug": "kairo-pad-3",
+        "label": "Best value",
+        "reason": "A 144 Hz display and 13-hour battery for ₹22,999."
+      }
+    ],
+    "body": [
+      "Taking notes by hand helps many people remember more, and a good tablet makes it easy to organise, search and share them. What matters most is stylus latency, palm rejection and how the screen feels under the nib.",
+      "## Factor in the stylus price",
+      "Only the Tarsa Canvas 12 includes a stylus in the box. Aster and Kairo sell theirs separately, which can add ₹8,000–₹12,000 to the total. We include that cost when we judge value.",
+      "## Screen size",
+      "An 11-inch tablet is easier to carry and hold; a 12–13-inch screen gives you room for a full A4 page and a second app. If you study from PDFs, go larger."
+    ],
+    "author": "Ishita Sen",
+    "publishedAt": "2026-10-16T05:30:00.000Z",
+    "updatedAt": "2026-11-16T05:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "g_best-monitors-for-creators",
+    "slug": "best-monitors-for-creators",
+    "title": "Best monitors for creators",
+    "excerpt": "Accurate colour, sharp text and the right connections for photo, video and design work.",
+    "category": "monitors",
+    "picks": [
+      {
+        "productSlug": "lumora-line-27-4k",
+        "label": "Best overall for photo editing",
+        "reason": "Factory-calibrated 4K with 95% DCI-P3 for ₹27,990."
+      },
+      {
+        "productSlug": "veyra-view-27",
+        "label": "Best for laptop users",
+        "reason": "One cable for 90 W charging, Ethernet, a KVM and four USB ports."
+      },
+      {
+        "productSlug": "lumora-glow-27",
+        "label": "Best for creators who game",
+        "reason": "QD-OLED colour and contrast with 240 Hz motion."
+      },
+      {
+        "productSlug": "corvex-arc-34",
+        "label": "Best for video timelines",
+        "reason": "A wide 3440 × 1440 canvas with strong contrast."
+      }
+    ],
+    "body": [
+      "For creative work, colour accuracy and resolution matter more than refresh rate. A 27-inch 4K screen gives crisp text and enough room for editing tools, while wide DCI-P3 coverage helps when you grade video or edit photos for print.",
+      "## Calibration",
+      "Factory calibration is a good start, but colours drift over time. If colour accuracy is critical to your work, a hardware calibrator is a worthwhile investment.",
+      "## Connectivity",
+      "If you work from a laptop, a monitor with USB-C power delivery simplifies your desk dramatically. The Veyra View 27 can replace a docking station entirely."
+    ],
+    "author": "Rohan Pillai",
+    "publishedAt": "2026-11-04T05:00:00.000Z",
+    "updatedAt": "2026-11-16T05:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "g_best-flagship-phones",
+    "slug": "best-flagship-phones",
+    "title": "Best flagship phones",
+    "excerpt": "The very best cameras, displays and performance — and which flagship is worth your money.",
+    "category": "phones",
+    "picks": [
+      {
+        "productSlug": "aster-one-pro",
+        "label": "Best overall",
+        "reason": "The most consistent cameras, seven years of updates and excellent sustained performance."
+      },
+      {
+        "productSlug": "kairo-x5",
+        "label": "Best value flagship",
+        "reason": "Flagship speed and a two-day battery for ₹57,999."
+      },
+      {
+        "productSlug": "aster-one",
+        "label": "Best compact flagship",
+        "reason": "Most of the Pro's software and speed in a light 170 g body."
+      },
+      {
+        "productSlug": "tarsa-edge-40",
+        "label": "Flagship features for less",
+        "reason": "A telephoto, wireless charging and IP68 at a mid-range price."
+      }
+    ],
+    "body": [
+      "Flagship phones are a big investment, so they need to last. That's why our flagship rankings weigh software support and build quality alongside cameras and performance.",
+      "## Is a flagship worth it?",
+      "For most people, a strong mid-range phone is enough. A flagship makes sense if you take lots of photos in low light, play demanding games or want to keep your phone for five years or more.",
+      "## Our pick",
+      "The Aster One Pro is the most complete phone we have tested, but the Kairo X5 offers most of the experience — plus a much bigger battery — for a lot less money."
+    ],
+    "author": "Ananya Rao",
+    "publishedAt": "2026-11-05T05:00:00.000Z",
+    "updatedAt": "2026-11-16T05:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "g_best-budget-earbuds",
+    "slug": "best-budget-earbuds",
+    "title": "Best budget earbuds",
+    "excerpt": "Great sound, reliable connections and long battery life without spending a fortune.",
+    "category": "headphones",
+    "budgetMax": 10000,
+    "picks": [
+      {
+        "productSlug": "kairo-buds-4-pro",
+        "label": "Best overall",
+        "reason": "Near-flagship ANC, a hi-res codec and 36 hours of total battery."
+      },
+      {
+        "productSlug": "novu-buds-pro-2",
+        "label": "Best ANC under ₹4,000",
+        "reason": "Effective noise cancellation and multipoint for ₹3,299."
+      },
+      {
+        "productSlug": "novu-buds-air-2",
+        "label": "Best under ₹2,000",
+        "reason": "Comfortable, reliable and 42 hours of total battery."
+      }
+    ],
+    "body": [
+      "You no longer need to spend ₹20,000 to get great earbuds. In 2026, budget models offer noise cancellation, multipoint and long battery life.",
+      "## Where budget earbuds compromise",
+      "The biggest differences are in call quality and ANC strength. Budget earbuds often struggle with wind noise during calls, and their noise cancellation is less effective against voices.",
+      "## Fit is everything",
+      "Earbuds only sound good if they seal properly. Try all the included ear tips — a good seal improves both bass and noise cancellation."
+    ],
+    "author": "Meera Iyer",
+    "publishedAt": "2026-10-24T06:00:00.000Z",
+    "updatedAt": "2026-11-16T05:00:00.000Z",
+    "status": "published"
+  }
+]

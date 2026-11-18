@@ -1,0 +1,78 @@
+[
+  {
+    "id": "c_aster-one-pro-vs-kairo-x5",
+    "title": "Aster One Pro vs Kairo X5",
+    "category": "phones",
+    "productSlugs": [
+      "aster-one-pro",
+      "kairo-x5"
+    ]
+  },
+  {
+    "id": "c_kairo-neo-3-vs-tarsa-edge-40-vs-novu-14-pro",
+    "title": "Kairo Neo 3 vs Tarsa Edge 40 vs Novu 14 Pro",
+    "category": "phones",
+    "productSlugs": [
+      "kairo-neo-3",
+      "tarsa-edge-40",
+      "novu-14-pro"
+    ]
+  },
+  {
+    "id": "c_aster-book-air-13-vs-veyra-slate-14",
+    "title": "Aster Book Air 13 vs Veyra Slate 14",
+    "category": "laptops",
+    "productSlugs": [
+      "aster-book-air-13",
+      "veyra-slate-14"
+    ]
+  },
+  {
+    "id": "c_corvex-strike-16-vs-corvex-strike-15-vs-veyra-slate-16-studio",
+    "title": "Corvex Strike 16 vs Corvex Strike 15 vs Veyra Slate 16 Studio",
+    "category": "laptops",
+    "productSlugs": [
+      "corvex-strike-16",
+      "corvex-strike-15",
+      "veyra-slate-16-studio"
+    ]
+  },
+  {
+    "id": "c_lumora-c2-55-vs-kairo-vision-q8-65",
+    "title": "Lumora C2 55 vs Kairo Vision Q8 65",
+    "category": "tvs",
+    "productSlugs": [
+      "lumora-c2-55",
+      "kairo-vision-q8-65"
+    ]
+  },
+  {
+    "id": "c_halden-aura-max-vs-aster-pods-pro-3-vs-kairo-buds-4-pro",
+    "title": "Halden Aura Max vs Aster Pods Pro 3 vs Kairo Buds 4 Pro",
+    "category": "headphones",
+    "productSlugs": [
+      "halden-aura-max",
+      "aster-pods-pro-3",
+      "kairo-buds-4-pro"
+    ]
+  },
+  {
+    "id": "c_aster-pad-air-11-vs-tarsa-canvas-12-vs-kairo-pad-3",
+    "title": "Aster Pad Air 11 vs Tarsa Canvas 12 vs Kairo Pad 3",
+    "category": "tablets",
+    "productSlugs": [
+      "aster-pad-air-11",
+      "tarsa-canvas-12",
+      "kairo-pad-3"
+    ]
+  },
+  {
+    "id": "c_lumora-glow-27-vs-corvex-arc-34",
+    "title": "Lumora Glow 27 vs Corvex Arc 34",
+    "category": "monitors",
+    "productSlugs": [
+      "lumora-glow-27",
+      "corvex-arc-34"
+    ]
+  }
+]

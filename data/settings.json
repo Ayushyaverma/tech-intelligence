@@ -1,0 +1,12 @@
+{
+  "siteName": "Tech Intelligence",
+  "demoMode": true,
+  "newsletterEnabled": true,
+  "adSlots": [
+    { "id": "home-between-news", "label": "Ad slot 01", "location": "Homepage — between news sections", "enabled": false },
+    { "id": "category-between-listings", "label": "Ad slot 02", "location": "Category page — between product listings", "enabled": false },
+    { "id": "product-below-specs", "label": "Ad slot 03", "location": "Product detail — below core specifications", "enabled": false },
+    { "id": "guides-articles", "label": "Ad slot 04", "location": "Buying guides and articles", "enabled": false },
+    { "id": "compare-below-results", "label": "Ad slot 05", "location": "Comparison page — below comparison results", "enabled": false }
+  ]
+}
