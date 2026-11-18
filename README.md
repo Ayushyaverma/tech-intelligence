@@ -1,5 +1,7 @@
 # Tech Intelligence
 
+Site for Amodits Entreprenurship.
+
 A technology research and product-comparison website for Indian buyers. Visitors read tech news, browse six product categories, see scores and price history, and compare up to five devices side by side. Everything is managed from an admin dashboard, so routine updates need no code.
 
 > **Sample data:** every brand, product, price, score and article in `data/` is fictional and exists only to demonstrate the site. Replace it before launch (see the [launch checklist](#before-launch)).
